@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+.header {
+    background: url('asset/img/bord.jpg') no-repeat center center/cover;
+    text-align: center;
+    padding: 80px 20px;
+    color: white;
+}
+.header h1 {
+    font-size: 48px;
+    margin: 0;
+}
+.header p {
+    font-size: 24px;
+}
+.content {
+    padding: 40px;
+    background: #f5f5f5;
+    text-align: center;
+}
+.content h2 {
+    font-size: 24px;
+}
+.content p {
+    font-size: 18px;
+}
+.content a {
+    color: #00bfff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.skills {
+    background: #e91e63;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+.skills h2 {
+    font-size: 24px;
+}
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+.skills li {
+    font-size: 18px;
+    margin: 10px 0;
+}
